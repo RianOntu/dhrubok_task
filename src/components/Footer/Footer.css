@@ -1,0 +1,9 @@
+.bg{
+    background-color: black;
+    
+}
+.footer{
+    bottom:0!important;
+    position:fixed;
+    width:100%;
+}

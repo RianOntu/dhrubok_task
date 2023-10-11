@@ -84,7 +84,7 @@ const Form = () => {
     }
     
     return (
-        <div>
+        <div className='back1'>
             <form style={{width:"80%"}} onSubmit={handleSubmit}>
   <div class="form-group">
    <div className="d-flex"> <label for="exampleInputEmail1">Name:</label><p className='text-danger'><sup>*</sup>required</p></div>

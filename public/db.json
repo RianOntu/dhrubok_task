@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "name": "Bhuv Shayana",
+      "email": "bhuv.shayana@example.com",
+      "gender": "male",
+      "phone": "9008726993",
+      "id": 1
+    },
+    {
+      "name": "Petar Ristović",
+      "email": "petar.ristovic@example.com",
+      "gender": "male",
+      "phone": "011-5392-002",
+      "id": 2
+    },
+    {
+      "name": "Betina Lekven",
+      "email": "betina.lekven@example.com",
+      "gender": "female",
+      "phone": "50404112",
+      "id": 3
+    },
+    {
+      "name": "Diogo Fournier",
+      "email": "diogo.fournier@example.com",
+      "gender": "male",
+      "phone": "077 991 79 32",
+      "id": 4
+    },
+    {
+      "name": "Castor Carvalho",
+      "email": "castor.carvalho@example.com",
+      "gender": "male",
+      "phone": "(11) 3496-3900",
+      "id": 5
+    },
+    {
+      "name": "نازنین کامروا",
+      "email": "nznyn.khmrw@example.com",
+      "gender": "female",
+      "phone": "080-26336127",
+      "id": 6
+    },
+    {
+      "name": "Timo Dressel",
+      "email": "timo.dressel@example.com",
+      "gender": "male",
+      "phone": "0497-5078367",
+      "id": 7
+    },
+    {
+      "name": "Valentina Clement",
+      "email": "valentina.clement@example.com",
+      "gender": "female",
+      "phone": "02-96-19-37-17",
+      "id": 8
+    },
+    {
+      "name": "Adolf Recktenwald",
+      "email": "adolf.recktenwald@example.com",
+      "gender": "male",
+      "phone": "0101-8993644",
+      "id": 9
+    },
+    {
+      "name": "Dan Vargas",
+      "email": "dan.vargas@example.com",
+      "gender": "male",
+      "phone": "01637 86312",
+      "id": 10
+    },
+    {
+      "name": "Annelie Gleich",
+      "email": "annelie.gleich@example.com",
+      "gender": "female",
+      "phone": "0701-0409866",
+      "id": 11
+    },
+    {
+      "name": "Eléa Moulin",
+      "email": "elea.moulin@example.com",
+      "gender": "female",
+      "phone": "04-05-39-11-96",
+      "id": 12
+    },
+    {
+      "name": "Josefa Soler",
+      "email": "josefa.soler@example.com",
+      "gender": "female",
+      "phone": "979-926-267",
+      "id": 13
+    },
+    {
+      "name": "Vincenza Le Gall",
+      "email": "vincenza.legall@example.com",
+      "gender": "female",
+      "phone": "078 106 28 07",
+      "id": 14
+    },
+    {
+      "name": "Nassima Kruisselbrink",
+      "email": "nassima.kruisselbrink@example.com",
+      "gender": "female",
+      "phone": "(0197) 191198",
+      "id": 15
+    },
+    {
+      "name": "Chloe Hughes",
+      "email": "chloe.hughes@example.com",
+      "gender": "female",
+      "phone": "(516)-422-1332",
+      "id": 16
+    },
+    {
+      "name": "Harsh Hiremath",
+      "email": "harsh.hiremath@example.com",
+      "gender": "male",
+      "phone": "9188341244",
+      "id": 17
+    },
+    {
+      "name": "Luke Hughes",
+      "email": "luke.hughes@example.com",
+      "gender": "male",
+      "phone": "(021)-122-6533",
+      "id": 18
+    },
+    {
+      "name": "Silvana Reisinger",
+      "email": "silvana.reisinger@example.com",
+      "gender": "female",
+      "phone": "0116-9425004",
+      "id": 19
+    },
+    {
+      "name": "Álvaro Medina",
+      "email": "alvaro.medina@example.com",
+      "gender": "male",
+      "phone": "916-089-419",
+      "id": 20
+    }
+  ]
+}

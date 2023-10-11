@@ -8,6 +8,7 @@ import Root from './components/Root';
 import Home from './components/Home/Home';
 import Counter from './components/Counter/Counter';
 import Form from './components/Form/Form';
+import List from './components/List/List';
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
           {
             path:'/form',
             element:<Form></Form>
+          },
+          {
+            path:'/list',
+            element:<List></List>
           }
         ]
       }

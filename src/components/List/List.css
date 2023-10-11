@@ -1,0 +1,14 @@
+.mb-5{
+    margin-bottom: 50px;
+}
+.back {
+    height: 500px; /* Set a fixed height for the table container */
+    overflow-y: auto; /* Enable vertical scrolling */
+    margin-top:150px;
+  }
+  
+  .table {
+    width: 100%; /* Table width should be 100% of the container */
+    white-space: nowrap; /* Prevent line breaks within table cells */
+  }
+  
